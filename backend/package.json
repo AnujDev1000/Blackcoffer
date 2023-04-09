@@ -1,0 +1,17 @@
+{
+  "name": "Blackcoffer_backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "server.js",
+  "repository": "https://github.com/AnujDev1000/Blackcoffer.git",
+  "author": "Anuj Jadhav",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22",
+    "router": "^1.3.8"
+  }
+}
